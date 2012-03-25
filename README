@@ -1,2 +1,7 @@
 Example activecollab module
 
+Change Modulename to Yourmodulename (first character uppercase)
+Change modulename to yourmodulename (all characters lowercase)
+Change MODULENAME to YOURMODULENAME (all uppercase)
+
+Create a file /assets/yourmodulename/icon.gif (see other modules in assets folder)
